@@ -48,7 +48,7 @@
 .logo {
     height: 49px;
     width: 49px;
-    background-color: aqua;
+    background-color: #FF017A;
     margin-top: 20px
 }
 
@@ -65,7 +65,7 @@
 }
 
 .nav li a:hover {
-    color: #ff6700
+    color:  #FF017A
 }
 
 .search-bar {
@@ -107,7 +107,7 @@
 }
 
 .search-button:hover {
-    background: #ff6700
+    background: #FF017A
 }
 
 /*nav end */
@@ -118,6 +118,8 @@
     width: 1226px;
     height: 460px;
 }
+.gundong .img{width: 1226px;
+    height: 460px;}
 
 .gundong-daohang {
     position: absolute;
@@ -146,7 +148,7 @@
 }
 
 .gundong-daohang ul li:hover {
-    background: #ff6700
+    background: #FF017A
 }
 
 /* gundong end */
@@ -260,7 +262,7 @@
 }
 
 .rapper-gai li a:hover {
-    color: #ff6700;
+    color:  #FF017A;
 }
 
 .rapper-one {
@@ -276,7 +278,7 @@
     padding-top: 39px;
     margin-right: 14px;
     box-sizing: border-box;
-    border-top: 1px solid #ffac13;
+    border-top: 1px solid  #FF017A;
     text-align: center;
     background: #fafafa;
 }
@@ -308,7 +310,7 @@
 }
 
 .item-price {
-    color: #ff6700;
+    color: #FF017A;
     font-size: 14px;
 }
 
@@ -394,7 +396,7 @@
 
 .smart-item .price a {
     text-decoration: none;
-    color: #ff6700;
+    color: #FF017A;
     font-size: 13px;
 }
 
@@ -437,7 +439,7 @@
 }
 
 .footer-q li a:hover {
-    color: #ff6700;
+    color: #FF017A;
 }
 
 .footer-w {
@@ -466,7 +468,7 @@
 }
 
 .footer-w dd a:hover {
-    color: #ff6700;
+    color: #FF017A;
     text-decoration: none;
 }
 
@@ -478,7 +480,7 @@
 }
 
 .footer-contact .phone {
-    color: #ff6700;
+    color: #FF017A;
     font-size: 22px;
     font-weight: 700;
 }
@@ -494,8 +496,8 @@
     display: inline-block;
     font-size: 12px;
     padding: 5px 8px;
-    color: #ff6700;
-    border: 1px solid #ff6700;
+    color:  #FF017A;
+    border: 1px solid  #FF017A;
 }
 
 /*footer end*/
@@ -514,7 +516,7 @@
 }
 
 .last-main-img {
-    background: skyblue
+    background: #FF017A
 }
 
 .last .last-top {
@@ -535,7 +537,7 @@
 }
 
 .last-list ul a:hover {
-    color: #ffc200;
+    color:  #FF017A;
 }
 
 .last-list ul i {
